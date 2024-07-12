@@ -20,9 +20,7 @@
   <a href='https://www.linkedin.com/in/arjumone/'>
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="margin: 0 10px;">
   </a>
-  <a href='https://www.facebook.com/arjumone'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style="margin: 0 10px;">
-  </a>
+  
   <a href='https://www.instagram.com/arjumone'>
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin: 0 10px;">
   </a>
